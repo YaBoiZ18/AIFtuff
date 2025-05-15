@@ -1,0 +1,14 @@
+C:\Users\Zarin\Desktop\Algorithms\AI\WordleGame\WordleGame\bin\Debug\net8.0\WordleGame.exe
+C:\Users\Zarin\Desktop\Algorithms\AI\WordleGame\WordleGame\bin\Debug\net8.0\WordleGame.deps.json
+C:\Users\Zarin\Desktop\Algorithms\AI\WordleGame\WordleGame\bin\Debug\net8.0\WordleGame.runtimeconfig.json
+C:\Users\Zarin\Desktop\Algorithms\AI\WordleGame\WordleGame\bin\Debug\net8.0\WordleGame.dll
+C:\Users\Zarin\Desktop\Algorithms\AI\WordleGame\WordleGame\bin\Debug\net8.0\WordleGame.pdb
+C:\Users\Zarin\Desktop\Algorithms\AI\WordleGame\WordleGame\obj\Debug\net8.0\WordleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarin\Desktop\Algorithms\AI\WordleGame\WordleGame\obj\Debug\net8.0\WordleGame.AssemblyInfoInputs.cache
+C:\Users\Zarin\Desktop\Algorithms\AI\WordleGame\WordleGame\obj\Debug\net8.0\WordleGame.AssemblyInfo.cs
+C:\Users\Zarin\Desktop\Algorithms\AI\WordleGame\WordleGame\obj\Debug\net8.0\WordleGame.csproj.CoreCompileInputs.cache
+C:\Users\Zarin\Desktop\Algorithms\AI\WordleGame\WordleGame\obj\Debug\net8.0\WordleGame.dll
+C:\Users\Zarin\Desktop\Algorithms\AI\WordleGame\WordleGame\obj\Debug\net8.0\refint\WordleGame.dll
+C:\Users\Zarin\Desktop\Algorithms\AI\WordleGame\WordleGame\obj\Debug\net8.0\WordleGame.pdb
+C:\Users\Zarin\Desktop\Algorithms\AI\WordleGame\WordleGame\obj\Debug\net8.0\WordleGame.genruntimeconfig.cache
+C:\Users\Zarin\Desktop\Algorithms\AI\WordleGame\WordleGame\obj\Debug\net8.0\ref\WordleGame.dll
